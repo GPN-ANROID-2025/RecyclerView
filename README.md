@@ -100,5 +100,3 @@ public class MainActivity extends AppCompatActivity {
 
 🚀 Now, you're ready to use `RecyclerView` in your Java-based Android app!
 ```
-
-This guide provides a clean and minimalistic approach to setting up a `RecyclerView` in Java. Let me know if you need modifications! 🚀
