@@ -1,5 +1,4 @@
 # Day 11 : RecyclerView
-Here’s a concise Markdown guide for implementing `RecyclerView` in Java for Android:
 
 ```markdown
 # RecyclerView in Android (Java)
